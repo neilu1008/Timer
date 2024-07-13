@@ -20,9 +20,14 @@ body {
 .timer input {
   display: block;
   border: none;
-  width: 240px;
-  font-size: 90px;
+  width: 15rem;
+  font-size: 5.6rem;
   text-align: center;
+}
+
+.timer value {
+  font-size: 5.6rem;
+  padding: 1%;
 }
 
 .timer button {
